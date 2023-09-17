@@ -7,7 +7,7 @@ api_hash = '6d272c8687a1efb77168619f08fade44'
 phone_number = '+15169702583'
 
 # Define the list of main and temporary user IDs
-main_ids = [6494136533]
+main_ids = [6236252550]
 temp_ids = [6531315965,1834957586]
 
 # Create a new TelegramClient instance
